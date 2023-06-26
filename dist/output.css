@@ -716,3 +716,9 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-border-opacity: 1;
   border-color: rgb(14 165 233 / var(--tw-border-opacity));
 }
+marquee{
+    background-color: azure;
+    color: red;
+    height: 100px;
+    font-size: 3rem;
+}
